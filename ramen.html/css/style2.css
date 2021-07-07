@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/1333119.jpg);
+    background-size: 65%;
+    text-align: left;
+}
+
+h1 {
+    color: burlywood;
+}
+h3 {
+    color: palevioletred;
+}
+
+h1 :hover {
+    color: gold;
+}
+
+ h3 :hover {
+     color: darkturquoise;
+ }
+ img {
+     height: 180px;
+ }
+
